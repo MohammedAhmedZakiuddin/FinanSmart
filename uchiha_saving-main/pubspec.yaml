@@ -1,0 +1,61 @@
+name: uchiha_saving
+description: A new Flutter project.
+
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  awesome_notifications: ^0.6.15
+  cached_network_image: ^3.1.0
+  cupertino_icons: ^1.0.2
+  cloud_firestore: ^2.5.3
+  date_time_picker: ^2.1.0
+  firebase_core: ^1.6.0
+  firebase_auth: ^3.1.1
+  firebase_messaging: ^10.0.7
+  firebase_storage: ^10.0.3
+  form_field_validator: ^1.1.0
+  fl_chart: ^0.40.2
+  flare_flutter: ^3.0.2
+  flutter_iconpicker: ^3.0.4
+  flutter_local_notifications: ^9.1.4
+  flutter_sticky_header: ^0.6.0
+  fluttericon: ^2.0.0
+  fluttertoast: ^8.0.8
+  google_sign_in: ^5.1.1
+  google_fonts: ^2.1.0
+  http: ^0.13.3
+  html: ^0.15.0
+  image_picker: ^0.8.4+2
+  intl: ^0.17.0
+  rive: ^0.7.28
+  select_form_field: ^2.2.0
+  shared_preferences: ^2.0.8
+  syncfusion_flutter_datepicker: ^19.2.62
+  syncfusion_flutter_charts: ^19.3.48
+  theme_provider: ^0.5.0
+  url_launcher: ^6.0.12
+  uuid: ^3.0.4
+  webview_flutter: ^2.1.0
+  month_picker_dialog: ^0.4.0
+  mockito: ^5.0.16
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/animations/Dragon.flr
+    - assets/animations/Teddy.flr

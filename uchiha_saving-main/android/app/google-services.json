@@ -1,0 +1,80 @@
+{
+  "project_info": {
+    "project_number": "346715422501",
+    "firebase_url": "https://uchiha-savings-default-rtdb.firebaseio.com",
+    "project_id": "uchiha-savings",
+    "storage_bucket": "uchiha-savings.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346715422501:android:96120d2d2f4f215650e4cc",
+        "android_client_info": {
+          "package_name": "com.teamfour.uchiha_saving"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346715422501-3fj8e8qb8aev5kpsdd9mr9u69t91clp7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teamfour.uchiha_saving",
+            "certificate_hash": "f72a5e3e2893b94722dee9dd639606579e7465c5"
+          }
+        },
+        {
+          "client_id": "346715422501-7kfbclhup7g6ha7mvqi6pjj54o4p80f1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teamfour.uchiha_saving",
+            "certificate_hash": "504f48b87ebef825bb035259105ee3824e3a1625"
+          }
+        },
+        {
+          "client_id": "346715422501-c2p7g2adjakv26re4p8vj5nbdh7jn9hp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teamfour.uchiha_saving",
+            "certificate_hash": "42b29f44682e462b5ba522f39d01cadc49a25ab6"
+          }
+        },
+        {
+          "client_id": "346715422501-cjlbu1n0880tembptvb7deng7fmml65h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teamfour.uchiha_saving",
+            "certificate_hash": "9073037fabd520904b1a402888392b32dd7420c7"
+          }
+        },
+        {
+          "client_id": "346715422501-nkagh0ggg9844k4guk1mk3lhq24uns1i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teamfour.uchiha_saving",
+            "certificate_hash": "5f1635a2fa169681418e82f4617baaf9c7be041c"
+          }
+        },
+        {
+          "client_id": "346715422501-vj5emtl2g4it1abdork1lr632mtd3qcj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSP41vukv191EYOgO8Qbzy5yIpG6Qsw8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346715422501-vj5emtl2g4it1abdork1lr632mtd3qcj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
